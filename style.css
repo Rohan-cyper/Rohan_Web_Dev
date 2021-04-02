@@ -1,12 +1,10 @@
 img {
-    width: 29%; 
-    height: 100%;
     margin-top: 15px;
     image-rendering: auto;
     image-rendering: crisp-edges;
     image-rendering: pixelated;
   }
-  @media screen and (max-width: 385px) {
+  @media screen and (max-width: 540px) {
     img {
       width: 100%;
       height: auto;
