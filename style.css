@@ -1,0 +1,56 @@
+img {
+    width: 29%; 
+    height: 100%;
+    margin-top: 15px;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  }
+a {
+    color: rgb(8, 167, 114);
+}
+pre {
+    overflow: hidden;
+}
+.journey {
+    font-size: x-large;
+   
+}
+.info {
+    font-size: x-large;
+    background-color: rgb(177, 7, 21);
+    color: cornsilk;
+    min-width: 100%;
+}
+
+.pearl {
+    box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+    color: white;
+    font-size: 60px;
+    background-image: url('miami_2.jpg');
+    min-width: 100%;
+    overflow-x:hidden;
+    overflow-y:hidden;
+    image-rendering: pixelated;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+.drk {
+    color: black;
+}
+
+footer {
+    background-color: rgb(14, 13, 13);
+    color: white;
+    padding: 15px;
+
+  }  
+  .fa{
+    color: rgb(248, 247, 247);
+    font-size: xx-large;
+    margin-right: 26px;
+}
