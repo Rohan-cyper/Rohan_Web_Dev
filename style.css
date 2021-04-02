@@ -51,12 +51,12 @@ footer {
     background-color: rgb(14, 13, 13);
     color: white;
     padding: 15px;
-
-  }  
+   
+  } 
   .fa{
     color: rgb(248, 247, 247);
     font-size: xx-large;
-    margin-left: 5%;
+    margin-right: 3%;
 }
 @media screen and (max-width: 527px) {
     .fa {
@@ -64,16 +64,12 @@ footer {
          font-size: large;
         }
        }
-       @media screen and (max-width: 355px) {
-    .fa {
-         margin-left: 2%;
-         font-size: large;
-        }
-        .sml {
-           visibility: hidden;
-        }
-     }
+      
        .drk {
         color: white;
         margin-left:0 ;
     }
+p {
+    margin-right: 2%;
+    margin-left: 2%;
+}
