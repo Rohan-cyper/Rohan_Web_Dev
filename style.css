@@ -60,11 +60,11 @@ footer {
 }
 @media screen and (max-width: 527px) {
     .fa {
-         margin-left: 2%;
+         margin-left: 3%;
          font-size: large;
         }
        }
-       @media screen and (max-width: 511px) {
+       @media screen and (max-width: 355px) {
     .fa {
          margin-left: 2%;
          font-size: large;
