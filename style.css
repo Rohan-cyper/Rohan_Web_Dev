@@ -6,6 +6,12 @@ img {
     image-rendering: crisp-edges;
     image-rendering: pixelated;
   }
+  @media screen and (max-width: 385px) {
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
 a {
     color: rgb(8, 167, 114);
 }
